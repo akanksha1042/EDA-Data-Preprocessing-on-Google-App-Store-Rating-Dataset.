@@ -1,2 +1,4 @@
 # EDA-Data-Preprocessing-on-Google-App-Store-Rating-Dataset.
-The Play Store apps data has enormous potential to drive app-making businesses to success.   it is necessary to do EDA and data-preprocessing on the apps data available for google app store applications. From the collected apps data and user ratings from the app stores . I try to extract insightful information.
+Required datasets: 
+https://olympus.mygreatlearning.com/courses/89683/files/7771146/download?verifier=fmHTUGgNNUZDlzuVlIfax3KYKxIbeVcvMvweTjpb&wrap=1
+https://olympus.mygreatlearning.com/courses/89683/files/7771147/download?verifier=2lxQqPHLMXuFwOkEj9vPEdaletnbXdhoAzTYRaVX&wrap=1
